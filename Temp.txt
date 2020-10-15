@@ -1,0 +1,12 @@
+res Каталог создан
+res/drawbles Каталог создан
+res/vectors Каталог создан
+res/icons Каталог создан
+savegames Каталог создан
+temp Каталог создан
+temp/Temp.txt Файл создан
+src/main Каталог создан
+savegames/save1.dat Файл удален
+savegames/save2.dat Файл удален
+savegames/save3.dat Файл удален
+
